@@ -1,4 +1,4 @@
-package Samsung;
+package samsung;
 
 import java.util.*;
 import java.io.BufferedReader;
